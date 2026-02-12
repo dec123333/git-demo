@@ -1,6 +1,6 @@
 #include  <iostream>
 using namespace std;
 int main() {
-  cout << "exkrement commit";
+  cout << "exkrement 2 commit";
   return 0;
 }
