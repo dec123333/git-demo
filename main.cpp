@@ -1,6 +1,6 @@
 #include  <iostream>
 using namespace std;
 int main() {
-  cout << "version text2";
+  cout << "exkrement pen is good";
   return 0;
 }
