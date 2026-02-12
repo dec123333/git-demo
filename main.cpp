@@ -1,6 +1,6 @@
 #include  <iostream>
 using namespace std;
 int main() {
-  cout << "exkrement pen is good";
+  cout << "exkrement commit";
   return 0;
 }
